@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "centos系统服务器SSR搭建教程"
-description: "centos系统服务器SSR搭建教程"
+title: "centos系统SSR服务器搭建教程"
+description: "centos系统SSR服务器搭建教程"
 categories: [工具]
+cover: 'https://i.loli.net/2018/08/22/5b7cd5e857bbd.jpg'
 tags: [工具, SSR]
 ---
 
@@ -46,7 +47,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/91yun/serverspe
 - 安装BBR
 
 ```Java
-wget --no-check-certificate -qO 'BBR.sh' 'https://moeclub.org/attachment/LinuxShell/BBR.sh' && chmod a+x BBR.sh && bash BBR.sh -f
+wget --no-check-certificate https://github.com/teddysun/across/raw/master/bbr.sh && chmod a+x bbr.sh && bash bbr.sh -f
 ```
 
 ### 三、SSR的相关使用命令

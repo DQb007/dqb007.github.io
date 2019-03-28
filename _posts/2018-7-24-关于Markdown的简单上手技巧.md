@@ -3,6 +3,7 @@ layout: post
 title: "关于Markdown的简单上手技巧"
 description: "Markdown的上手技巧"
 categories: [工具]
+cover: 'https://i.loli.net/2018/08/22/5b7d0550a8e2e.png'
 tags: [工具, markdown]
 ---
 
